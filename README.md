@@ -60,6 +60,7 @@ Instead of keeping these projects scattered across folders, this repo serves as 
 2. Open the `README.md` inside that project folder (if available) for setup instructions.
 3. For static projects:
    - Open the `.html` file in your browser.
+   - Make sure it to read README.md for each project as some project require additional tools to run.
 4. For projects requiring dependencies:
    ```bash
    npm install
