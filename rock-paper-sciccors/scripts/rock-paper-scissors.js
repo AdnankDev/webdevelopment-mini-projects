@@ -62,8 +62,8 @@ function playGame(playerMove) {
   computerMove = computerMove.toLowerCase();
 
   pElement.innerHTML = `${result}
-    You <img src="/images/${playerMove}-emoji.png" alt="" class="move-icon" />
-        <img src="/images/${computerMove}-emoji.png" alt="" class="move-icon" /> Computer`;
+    You <img src="./images/${playerMove}-emoji.png" alt="" class="move-icon" />
+   <img src="./images/${computerMove}-emoji.png" alt="" class="move-icon" /> Computer`;
 
   scoreElement.innerHTML = `win: ${score.wins} Loss:${score.losses} Tie ${score.ties}`;
 }
