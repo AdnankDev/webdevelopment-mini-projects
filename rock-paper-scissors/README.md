@@ -24,7 +24,7 @@ Here’s a quick preview of the game:
 ```
 rock-paper-scissors/
 │
-├── rock-paper-scissor.html   # Main HTML file
+├── index.html   # Main HTML file
 │
 ├── images/                   # Game icons (rock, paper, scissors)
 │
